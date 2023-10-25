@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hochland-koniec/static/css/main.7d6f396f.css",
-    "main.js": "/hochland-koniec/static/js/main.0a0dc3d2.js",
+    "main.js": "/hochland-koniec/static/js/main.4dd065d6.js",
     "index.html": "/hochland-koniec/index.html",
     "main.7d6f396f.css.map": "/hochland-koniec/static/css/main.7d6f396f.css.map",
-    "main.0a0dc3d2.js.map": "/hochland-koniec/static/js/main.0a0dc3d2.js.map"
+    "main.4dd065d6.js.map": "/hochland-koniec/static/js/main.4dd065d6.js.map"
   },
   "entrypoints": [
     "static/css/main.7d6f396f.css",
-    "static/js/main.0a0dc3d2.js"
+    "static/js/main.4dd065d6.js"
   ]
 }
