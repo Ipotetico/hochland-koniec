@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hochland-koniec.git/static/css/main.b8c4909c.css",
+    "main.css": "/hochland-koniec.git/static/css/main.7d6f396f.css",
     "main.js": "/hochland-koniec.git/static/js/main.d7db339b.js",
     "index.html": "/hochland-koniec.git/index.html",
-    "main.b8c4909c.css.map": "/hochland-koniec.git/static/css/main.b8c4909c.css.map",
+    "main.7d6f396f.css.map": "/hochland-koniec.git/static/css/main.7d6f396f.css.map",
     "main.d7db339b.js.map": "/hochland-koniec.git/static/js/main.d7db339b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8c4909c.css",
+    "static/css/main.7d6f396f.css",
     "static/js/main.d7db339b.js"
   ]
 }
