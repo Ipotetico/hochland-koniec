@@ -10,7 +10,7 @@ const Browser = () => {
       />
       <img
         className="picture"
-        src={process.env.PUBLIC_URL + "/images/tlo_popup_browser_koniec.png"}
+        src={process.env.PUBLIC_URL + "/images/tlo_popup_browser_koniec.webp"}
         alt=""
       />
     </div>

@@ -10,7 +10,7 @@ const Mobile = () => {
       />
       <img
         className="picture mobile"
-        src={process.env.PUBLIC_URL + "/images/tlo_popup_mobile_koniec.png"}
+        src={process.env.PUBLIC_URL + "/images/tlo_popup_mobile_koniec.webp"}
         alt=""
       />
     </div>
